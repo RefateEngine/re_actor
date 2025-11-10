@@ -1,0 +1,1 @@
+$tellraw @s {"text":"データを出力しました。クリックしてコピーできます。","click_event":{action:"copy_to_clipboard",value:'$(export)'}}
